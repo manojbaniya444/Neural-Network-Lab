@@ -6,6 +6,7 @@ From the paper attention is all you need here only encoder part is implemented w
 - Self attention mechanism with multi head attention
 - Residual connection with layer normalization
 - Feed forward layer
+- Output from encoder (context)
 
 ![model](./images/model.jpg)
 
