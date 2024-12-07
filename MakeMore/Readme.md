@@ -9,3 +9,6 @@ Here simply predicting the next character given only a single character context 
 [Single Layer Next Character Prediction](./01_Bigram_Language_Model_NN.ipynb)
 
 ![Bigram Pair Count](./makemore_count.png)
+
+## MLP: tri gram with NN
+[Tri gram](./02_MLP.ipynb)
