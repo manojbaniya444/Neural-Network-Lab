@@ -12,3 +12,4 @@ Here simply predicting the next character given only a single character context 
 
 ## MLP: tri gram with NN
 [Tri gram](./02_MLP.ipynb)
+[Batch Normalization and Activation](./03_MLP_Complete.ipynb)
