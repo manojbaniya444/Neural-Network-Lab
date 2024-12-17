@@ -8,5 +8,5 @@ From the paper attention is all you need here only encoder part is implemented w
 - Feed forward layer
 - Output from encoder (context)
 
-![model](./images/model.jpg)
+![model](../images/model.jpg)
 
